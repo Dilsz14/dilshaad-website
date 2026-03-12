@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/ai-consultancy/page": "/ai-consultancy",
+  "/contact/page": "/contact",
+  "/digital-branding/page": "/digital-branding",
+  "/digital-marketing/page": "/digital-marketing",
+  "/favicon.ico/route": "/favicon.ico",
+  "/life-insurance/page": "/life-insurance",
+  "/page": "/",
+  "/web-design/page": "/web-design"
+}
